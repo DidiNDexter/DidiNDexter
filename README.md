@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DidiNDexter-Chidinma Obiekwe
-- 👀 I’m interested in product management and cloud engineering
+- 👀 I’m interested in Tech Sales, Product management and Cloud engineering
 - 🌱 I’m currently learning Cloud engineering with AltSchool.
 - 💞️ I’m looking to collaborate on any open source project that requires a Product manager, growth hackers, scrum master
 - 📫 How to reach me obiekwe_chidinma@yahoo.com
